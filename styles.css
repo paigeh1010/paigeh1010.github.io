@@ -7,7 +7,7 @@ h1 {
     color:cornflowerblue
 }
 
-.projects { 
+.projects {
     display:flex; 
     flex-wrap:wrap; 
 }
