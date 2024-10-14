@@ -5,16 +5,11 @@ body {
 h1 {
     text-align: center;
     color:cornflowerblue
-}
 
-.projects {
-    display:flex; 
-    flex-wrap:wrap; 
-}
+    .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */}
 .project {
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: rgb(23, 171, 225); /* pick a color */
-border-radius: 25%;
-}
+background: rgb(9, 78, 190); /* pick a color */
+border-radius: 25%;}
