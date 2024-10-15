@@ -5,10 +5,11 @@ body {
 h1 {
     text-align: center;
     color:cornflowerblue
-
-    .projects { display:flex; 
-        flex-wrap:wrap; 
-    } /* condensed to save space */}
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+}
 .project {
 width: 30%;
 margin: 10px;
